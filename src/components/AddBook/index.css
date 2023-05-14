@@ -1,0 +1,39 @@
+.form-bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: gray;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: min-content;
+  padding-left: 100px;
+  padding: 10px;
+  height: 40vh;
+  width: 40vh;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.input-container {
+  outline: none;
+  color: #ffffff;
+  background-color: rgba(0, 0, 0, 1);
+  padding: 5px;
+}
+
+label {
+  align-self: flex-start;
+  margin-left: 2.5vw;
+  margin-top: 7px;
+  margin-bottom: 3px;
+}
+
+button {
+  margin: 5px;
+}

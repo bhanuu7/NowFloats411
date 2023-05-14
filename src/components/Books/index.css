@@ -1,0 +1,31 @@
+.book-container {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  border-radius: 10px;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 5px;
+  margin: 5px;
+  color: black;
+  font-weight: 300;
+}
+
+.book-name {
+  color: aliceblue;
+  outline: none;
+}
+
+.book-details {
+  margin-right: 3px;
+}
+
+.icon {
+  margin-left: 1%;
+  margin-top: 2%;
+  cursor: pointer;
+}
+
+.author {
+  font-weight: 600;
+}

@@ -1,0 +1,40 @@
+{
+  "Books": [
+    {
+      "uniqueNo": 1,
+      "name": "Sardar Vallabhabhai Patel India's Iron Man",
+      "author": "Balraj Krishna",
+      "description": "India's fight for freedom began within two decades of her crushing defeat in the Mutiny of 1857, also called India's First War of Independence. In his great pride of a conqueror, Lord Lawrence Humiliatingly asked the Indians: 'Will you be governed by the pen or the sword?' The British, nevertheless could not crush their spirit. It lay dormant over the next two decades, but re-emerged first in 1875 with Bankim Chandra Chatterji's immortal national hymn Bande Mataram.",
+      "coverPageUrl": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61CSlV3voZL.jpg"
+    },
+    {
+      "uniqueNo": 2,
+      "name": "WINGS OF FIRE: AUTOBIOGRAPHY OF ABDUL KALAM",
+      "author": "Arun Tiwari",
+      "description": "Every common man who by his sheer grit and hard work achieves success should share his story with the rest for they may find inspiration and strength to go on, in his story. The 'Wings of Fire' is one such autobiography by visionary scientist Dr. APJ Abdul Kalam, who from very humble beginnings rose to be the President of India. The book is full of insights, personal moments and life experiences of Dr. Kalam.",
+      "coverPageUrl": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71KKZlVjbwL.jpg"
+    },
+    {
+      "uniqueNo": 3,
+      "name": "JAIL DIARY OF BHAGAT SINGH",
+      "author": "Rupa Publications",
+      "description": "A portrait of man with an acute scholarly mind and a cheerful socialist heart. Between the years 1929 in September till March 1931 when he was sent to the gallows a day before his actual hanging date, Bhagat Singh wrote extensively. He maintained a diary which was full of notes of daily usage, his own thoughts on freedom, poverty and class struggle and thoughts of varied political thinkers and intellectuals like Lenin, Marx, ummar Khayyam, morozov, Rabindranath Tagore, trotsky, Bertrand Russell, Dostoevsky, Wordsworth, Ghalib and many others.",
+      "coverPageUrl": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/616+Tm-xB+L.jpg"
+    },
+
+    {
+      "uniqueNo": 4,
+      "name": "The Scam",
+      "author": "Sucheta Dalal",
+      "description": "The Scam, a chronicle of two of the most famous scams in the Indian stock markets First published in April 1993, this 11th printing of the scam includes the original Harshad Mehta Scam and the Ketan Parekh Scam, while also delving into the JPC Fiasco and the Global Trust Bank Scam.",
+      "coverPageUrl": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/413kxa8M3kL.jpg"
+    },
+    {
+      "uniqueNo": 5,
+      "name": "FRIENDS, LOVERS AND THE BIG TERRIBLE THING",
+      "author": "Matthew Perry",
+      "description": "The beloved star of Friends takes us behind the scenes of the hit sitcom and his struggles with addiction in this candid, funny, and revelatory memoir that delivers a powerful message of hope and persistence.",
+      "coverPageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1644521959l/59641216.jpg"
+    }
+  ]
+}

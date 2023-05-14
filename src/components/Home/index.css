@@ -1,0 +1,38 @@
+.app-container {
+  background-image: url('https://images.unsplash.com/photo-1521587760476-6c12a4b040da?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  min-height: 100vh;
+  height: auto;
+  margin: 0;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.search-container {
+  position: fixed;
+  top: 1vh;
+  height: 6vh;
+  width: 18vw;
+  padding: 5px;
+  outline: none;
+  color: gray;
+  margin-right: 15px;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  align-self: flex-end;
+}
+
+.title {
+  color: red;
+}
+
+.list-container {
+  background-color: rgba(0, 0, 0, 0.3);
+  min-height: 70vh;
+  height: auto;
+  padding: 15px;
+}
